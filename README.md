@@ -14,10 +14,10 @@
 
 
 ###  STAR Reflection
-*S*ituation: I was uncertain about which ICT career path best suited my interests.  
-*T*ask: I needed to gain clarity and direction.  
-*A*ction: I explored career options using online tools and guidance from career services.  
-*R*esult: I identified a strong interest in software development and started aligning my learning toward it.
+*S*ituation: I was unsure which ICT career aligned with my interests.  
+*T*ask: I needed to find clarity and a clear direction.  
+*A*ction:  I researched career paths using online resources and sought advice from career counselors. 
+*R*esult: I discovered a passion for software development and began focusing my studies in that area.
 
 ---
 
@@ -28,10 +28,10 @@
 .
 
 ###  STAR Reflection
-*S*ituation: I lacked direction early in my studies.  
-*T*ask: I needed to identify my strengths and align them with potential careers.  
-*A*ction: I took skill assessments, participated in coding challenges, and reflected on my interests.  
-*R*esult: I confirmed my passion for web development and started building related projects.
+*S*ituation: Early in my studies, I felt uncertain about my career path.
+*T*ask: I aimed to identify my strengths and match them with suitable ICT roles. 
+*A*ction: I completed skill assessments, engaged in coding challenges, and evaluated my interests.
+*R*esult: This process solidified my passion for web development, prompting me to work on hands-on projects.
 
 ---
 
@@ -42,10 +42,11 @@
 
 
 ### 🌟 STAR Reflection
-*S*ituation: I wanted to understand how my personality influences my career path.  
-*T*ask: To discover which roles would match my strengths and preferences.  
-*A*ction: I completed the MBTI test and reflected on the outcomes.  
-*R*esult: I discovered that roles in systems analysis, design, and development suit my personality.
+*S*ituation: I sought to understand how my personality traits could shape my career choices. 
+*T*ask: My goal was to identify roles that aligned with my strengths and work preferences. 
+*A*ction: I took the MBTI assessment, analyzed the results, and researched relevant career paths.
+*R*esult: I realized that my analytical and creative traits make me well-suited for roles in systems analysis, design, and development.
+
 
 ---
 
@@ -56,10 +57,10 @@
 
 
 ###  STAR Reflection
-*S*ituation: I needed a professional CV for internship/job applications.  
-*T*ask: To create a concise and well-structured CV.  
-*A*ction: I followed CPUT's CV writing guidelines and peer-reviewed samples.  
-*R*esult: I produced a CV that reflects my qualifications and experience, suitable for applying to internships.
+*S*ituation: I required a professional CV to apply for internships and entry-level roles.
+*T*ask: My objective was to craft a clear, structured, and compelling CV.
+*A*ction: I studied CPUT’s CV guidelines, analyzed high-quality samples, and incorporated best practices. 
+*R*esult: I developed a polished CV that effectively highlights my qualifications, making me a competitive candidate for internships.
 
 ---
 
@@ -69,10 +70,10 @@
 [My CV (pdf)](https://github.com/Anele77085/Project-Presentation/blob/main/Anele%2BJaji-Curriculum%2BVitae%2B(2)-merged.pdf)
 
 ###  STAR Reflection
-*S*ituation: Submitting important documents during deadlines can be stressful.  
-*T*ask: To ensure timely and correct submission of my CV.  
-*A*ction: I double-checked requirements, verified the file, and submitted ahead of time.  
-*R*esult: The submission was successful and acknowledged via email.
+*S*ituation: Facing tight deadlines for critical document submissions often creates pressure.
+*T*ask: I needed to guarantee my CV was submitted accurately and on time.  
+*A*ction: I meticulously reviewed submission guidelines, validated the file format, and submitted it 24 hours early. 
+*R*esult: My submission was confirmed as successful, with an official acknowledgment receipt from the recruiter.
 
 ---
 
