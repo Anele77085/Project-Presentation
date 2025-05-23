@@ -1,5 +1,5 @@
 # Project-Presentation
-#  Digital Portfolio – PRP370S Project Presentation 3
+#  Digital Portfolio
 **Student Name**: Anele Jaji 
 **Student Number**: 222702079 
 **Course**: Diploma in ICT: Application Development  
